@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af0f7a4f-a611-48cd-a9ca-4f76d377fdb8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bl1xsU8ouEoCewkcZaXFmhBjIi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../password-generator" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\developing\DjangoStuff\project2\personal_portfolio\portfolio\static\portfolio" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af0f7a4f-a611-48cd-a9ca-4f76d377fdb8" name="Default Changelist" comment="" />
+      <created>1589192116178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589192116178</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="189" key="FileChooserDialogImpl" timestamp="1589195118899">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="370" y="189" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1589195118899" />
+    <state x="17" y="47" key="SettingsEditor" timestamp="1589192215195">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="17" y="47" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1589192215195" />
+    <state x="251" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1589192124757">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="251" y="273" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1589192124756" />
+  </component>
+</project>
